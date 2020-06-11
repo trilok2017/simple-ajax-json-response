@@ -1,3 +1,7 @@
+<?php
+echo "<pre>";
+print_r($_SERVER);
+?>
 <html>
     <head>
        <title>jQuery Test</title>
